@@ -5,7 +5,7 @@ title: Philosophy - Notes on Hume's Enquiry Concerning Human Understanding
 
 Meet [David Hume](http://en.wikipedia.org/wiki/David_Hume):
 
-![alt text](http://en.wikipedia.org/wiki/File:Painting_of_David_Hume.jpg "Cool hat right?")
+![alt text](http://upload.wikimedia.org/wikipedia/commons/e/ea/Painting_of_David_Hume.jpg "Cool hat right?")
 
 ## SECTION I: of the different species of philosophy.
 
