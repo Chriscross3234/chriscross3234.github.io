@@ -43,9 +43,20 @@ Two kinds of human reason:
 1. Relation of Ideas
 2. Matters of Fact
 
-*Relation of Ideas* are discoverable by thought without dependance on experience
+**Relation of Ideas** are discoverable by thought without dependance on experience.
 
-*Matters of Fact* 
+**Matters of Fact** are statements which require demonstration to imply falsehood. An example can be "The sun will rise tomorrow". All reasoning behind Matter of Facts are founded on the relation of *Cause and Effect*. 
+
+Hume states when asked the reasoning behind a Matter of Fact, reference to another Matter of Fact is typically made. "The sun will rise tomorrow" can be reasoned with "I saw the sun rise today". This creates a connection with the present fact and that which is inferred from it. The automatic inference stems from *Cause and Effect*, but how is that gained?
+
+Knowledge gained from Cause and Effect is known *a priori*, but from experience when we find objects conjoined to each other. If a man, striped of all knowledge, is presented with an object, he will be unable to discover any causes or effects.
+
+*Every effect is a distinct event from it's cause*.
+
+The discovery of scientific laws are only made by observation and experience and never abstract reasoning by itself.
+
+### Part Two
+
 
 ## SECTION IV: sceptical doubts concerning the operations of the understanding.
 ## SECTION V: sceptical solution of these doubts.
