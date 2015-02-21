@@ -1,7 +1,11 @@
 ---
 layout: post
-title: Philosophy - Notes on Hume's Enquiry of Human Understanding
+title: Philosophy - Notes on Hume's Enquiry Concerning Human Understanding
 ---
+
+Meet [David Hume](http://en.wikipedia.org/wiki/David_Hume):
+
+![alt text](http://en.wikipedia.org/wiki/David_Hume#mediaviewer/File:Painting_of_David_Hume.jpg "Cool hat right?")
 
 ## SECTION I: of the different species of philosophy.
 
@@ -30,16 +34,22 @@ A proposal of three (maybe more) principles of association:
 2. Contiguity - a location in our home city leads to other locations nearby
 3. Cause and Effect - thinking of a wound brings reflection of the pain
 
-SECTION IV: sceptical doubts concerning the operations of the understanding.
+## SECTION IV: sceptical doubts concerning the operations of the understanding.
+
+### Part One
 
 Two kinds of human reason:
 
 1. Relation of Ideas
 2. Matters of Fact
 
+*Relation of Ideas* are discoverable by thought without dependance on experience
+
+*Matters of Fact* 
+
 ## SECTION IV: sceptical doubts concerning the operations of the understanding.
 ## SECTION V: sceptical solution of these doubts.
-## SECTION VI: of probability1.
+## SECTION VI: of probability.
 ## SECTION VII: of the idea of necessary connexion.
 ## SECTION VIII: of liberty and necessity.
 ## SECTION IX: of the reason of animals.
