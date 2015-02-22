@@ -7,6 +7,8 @@ Meet [David Hume](http://en.wikipedia.org/wiki/David_Hume):
 
 ![alt text](http://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Painting_of_David_Hume.jpg/220px-Painting_of_David_Hume.jpg "Cool hat right?")
 
+Here is the [source material](http://oll.libertyfund.org/titles/hume-enquiries-concerning-the-human-understanding-and-concerning-the-principles-of-morals) and more on [Hume](http://plato.stanford.edu/entries/hume/).
+
 ## SECTION I: of the different species of philosophy.
 
 Philosophers who speak towards the actions of human nature vs the reason behind human nature. Easy and obvious philosophy vs accurate and abtruse. As obscure as the abtruse philosophy is, ultimately it benefits all members of society. 
