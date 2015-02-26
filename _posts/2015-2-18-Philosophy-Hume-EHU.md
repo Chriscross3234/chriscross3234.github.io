@@ -11,7 +11,7 @@ Here is the [source material](http://oll.libertyfund.org/titles/hume-enquiries-c
 
 ## SECTION I: of the different species of philosophy.
 
-Philosophers who speak towards the actions of human nature vs the reason behind human nature. Easy and obvious philosophy vs accurate and abtruse. As obscure as the abtruse philosophy is, ultimately it benefits all members of society. 
+There are two types of philosophers. Philosophers who speak towards the actions of human nature compared to philosphers who speak towards the reason behind human nature. The former is easy and obvious philosophy (rhetoric), while the latter is accurate and abtruse. As obscure as the abtruse philosophy is, it ultimately benefits all members of society. 
 
 ## SECTION II: of the origin of ideas.
 
@@ -28,7 +28,7 @@ An exploration of ideas that are created without impressions is required.
 
 ## SECTION III: of the association of ideas.
 
-Through natural thinking or conversation, ideas flow from one another, indicating that there exists an [Association of Ideas](http://en.wikipedia.org/wiki/Association_of_ideas). Ideas that aren't relevant to the topic at hand are dismissed. 
+Through natural thinking or conversation, ideas flow from one another, indicating that there exists an [Association of Ideas](http://en.wikipedia.org/wiki/Association_of_ideas). In discussions ore serious thinking, ideas that aren't relevant to the topic conversation or topic are dismissed. 
 
 A proposal of three (maybe more) principles of association:
 
@@ -59,8 +59,19 @@ The discovery of scientific laws are only made by observation and experience and
 
 ### Part Two
 
+Matters of Fact -> Cause and Effect -> Experience -> ???
+
+The nature of experience that accounts for reasoning of Cause and Effect and subsquenty Matters of Fact is not founded on reasoning or any process of understanding.
+
+We can observe Cause and Effect events with the same outcome and then we state that a future cause will have the same effect. But what allows the connection between our observation and prediction? The latter is always inferred from the former. There is no reasoning behind the inference.
+
+The same argument stands for prediction of a future cause whether we experience one similar event or 100 similar events with the same outcome. The reasoning for the prediction cannot be justified. If there exists posibility of change for future events, experience becomes useless and gives no rise to inference or conclusion.
 
 ## SECTION IV: sceptical doubts concerning the operations of the understanding.
+
+
+
+
 ## SECTION V: sceptical solution of these doubts.
 ## SECTION VI: of probability.
 ## SECTION VII: of the idea of necessary connexion.
